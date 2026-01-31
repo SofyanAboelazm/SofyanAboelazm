@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
 
 <h1>Hi, I'm Sofyan Aboelazm 👋</h1>
 <h3>Full-Stack Web Developer (PHP & JS)</h3>
